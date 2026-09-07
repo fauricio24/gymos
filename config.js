@@ -10,7 +10,7 @@ var GYMOS_CONFIG = {
   
 
   // 2️⃣ Nombre del gimnasio (sale debajo del icono en el celular)
-  nombre: 'MaxPower,
+  nombre: 'MaxPower',
 
   // 3️⃣ Nombre largo (sale en la pantalla de carga)
   nombreLargo: 'GymMaxPower· Gestión',
