@@ -7,6 +7,7 @@ var GYMOS_CONFIG = {
 
   // 1️⃣ Pega aquí la URL de tu aplicación web de Apps Script (termina en /exec)
   url: 'https://script.google.com/macros/s/AKfycbxRp0e63D1kisqXaInRjfUiAbA-JaUdQSOFuLqkYY3JfzwBDYNhSxeW_rGsqSO9OgXfJA/exec',
+  
 
   // 2️⃣ Nombre del gimnasio (sale debajo del icono en el celular)
   nombre: 'MaxPower,
