@@ -1,6 +1,6 @@
 {
-  "name": "GymMaxPower· Gestión",
-  "short_name": "MaxPower",
+  "name": "PowerGym · Gestión",
+  "short_name": "PowerGym",
   "description": "Membresía, rutinas y asistencia del gimnasio",
   "start_url": "./index.html",
   "scope": "./",
